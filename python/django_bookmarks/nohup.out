@@ -1,0 +1,22 @@
+[15/Oct/2017 17:09:21] "GET / HTTP/1.1" 200 1716
+[15/Oct/2017 17:09:21] "GET / HTTP/1.1" 200 1716
+Unknown command: '45.76.216.210:80'
+Type 'manage.py help' for usage.
+Unknown command: '45.76.216.210'
+Type 'manage.py help' for usage.
+[22/Oct/2017 14:53:48] "GET / HTTP/1.1" 200 0
+[22/Oct/2017 14:54:55] "GET / HTTP/1.1" 200 46
+Not Found: /video/chi-dau-oi-anh-yeu-em/30/
+[22/Oct/2017 14:55:24] "GET /video/chi-dau-oi-anh-yeu-em/30/ HTTP/1.1" 404 2196
+Not Found: /favicon.ico
+[22/Oct/2017 14:55:25] "GET /favicon.ico HTTP/1.1" 404 2136
+Not Found: /video/chi-dau-oi-anh-yeu-em/30/
+[22/Oct/2017 14:55:32] "GET /video/chi-dau-oi-anh-yeu-em/30/ HTTP/1.1" 404 2196
+Not Found: /video/me-nao-con-nay-loan-luan/219/
+[22/Oct/2017 14:56:37] "GET /video/me-nao-con-nay-loan-luan/219/ HTTP/1.1" 404 2208
+Not Found: /favicon.ico
+[22/Oct/2017 14:56:38] "GET /favicon.ico HTTP/1.1" 404 2136
+Not Found: /video/me-nao-con-nay-loan-luan/219/
+[22/Oct/2017 14:56:43] "GET /video/me-nao-con-nay-loan-luan/219/ HTTP/1.1" 404 2208
+Not Found: /favicon.ico
+[22/Oct/2017 14:56:44] "GET /favicon.ico HTTP/1.1" 404 2136

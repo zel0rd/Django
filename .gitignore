@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 che__
+=======
+*.pyc
+*~
+__pycache__
+>>>>>>> 4eadaf4c64617b8f757a6dacac6c8586a3d8c21f
 myvenv
 db.sqlite3
 /static
